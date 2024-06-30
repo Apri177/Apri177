@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**Apri177/Apri177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**archi7274/archi7274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![archi7274's GitHub stats](https://github-readme-stats.vercel.app/api?username=archi7274&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archi7274&layout=compact&theme=dracula)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=archi7274)](https://solved.ac/archi7274)
